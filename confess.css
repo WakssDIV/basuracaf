@@ -1,0 +1,9 @@
+@font-face {
+    font-family: myfont;
+    src: url(fonts/confession.ttf);
+}
+h1{
+    font-family: myfont;
+    font-size: xxx-large;
+    color: palevioletred;
+}
